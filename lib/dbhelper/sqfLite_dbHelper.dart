@@ -1,9 +1,9 @@
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
-import 'package:tressle_business/Models/productModel.dart';
-import 'package:tressle_business/Models/serviceModel.dart';
-import 'package:tressle_business/Models/service_categoryModel.dart';
-import 'package:tressle_business/Models/staffModel.dart';
+import 'package:tressle_business/models/productModel.dart';
+import 'package:tressle_business/models/serviceModel.dart';
+import 'package:tressle_business/models/service_categoryModel.dart';
+import 'package:tressle_business/models/staffModel.dart';
 
 class DatabaseHelper {
   static final DatabaseHelper _instance = DatabaseHelper._internal();

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:tressle_business/ui/HomeScreen.dart';
+import 'package:tressle_business/ui/homeScreen.dart';
 import 'package:tressle_business/ui/dashboardScreen.dart';
 import 'package:tressle_business/ui/forgetPasswordUsernameScreen.dart';
 import 'package:tressle_business/ui/shopDetailScreen.dart';
