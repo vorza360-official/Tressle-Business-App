@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/attendenceListScreen.dart';
-import 'package:tressle_business/UI/bookingListScreen.dart';
-import 'package:tressle_business/UI/dashboardScreen.dart';
-import 'package:tressle_business/UI/employeeHistoryScreen.dart';
-import 'package:tressle_business/UI/notificationScreen.dart';
-import 'package:tressle_business/UI/shopDetailScreen.dart';
+import 'package:tressle_business/ui/attendenceListScreen.dart';
+import 'package:tressle_business/ui/bookingListScreen.dart';
+import 'package:tressle_business/ui/dashboardScreen.dart';
+import 'package:tressle_business/ui/employeeHistoryScreen.dart';
+import 'package:tressle_business/ui/shopDetailScreen.dart';
 
 class MainScreen extends StatefulWidget {
   @override

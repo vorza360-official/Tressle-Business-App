@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/shopDetailScreen.dart';
+import 'package:tressle_business/ui/shopDetailScreen.dart';
 import 'package:tressle_business/services/auth_service.dart';
 
 class GoogleProfileCompletionScreen extends StatefulWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/resetPasswordSuccessScreen.dart';
+import 'package:tressle_business/ui/resetPasswordSuccessScreen.dart';
 
 class SetNewPasswordScreen extends StatefulWidget {
   const SetNewPasswordScreen({Key? key}) : super(key: key);

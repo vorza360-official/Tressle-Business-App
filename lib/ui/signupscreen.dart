@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/googleProfileCompletionScreen.dart';
-import 'package:tressle_business/UI/loginScreen.dart';
-import 'package:tressle_business/UI/shopDetailScreen.dart';
-import 'package:tressle_business/UI/signupVerificationScreen.dart';
+import 'package:tressle_business/ui/googleProfileCompletionScreen.dart';
+import 'package:tressle_business/ui/loginScreen.dart';
+import 'package:tressle_business/ui/shopDetailScreen.dart';
+import 'package:tressle_business/ui/signupVerificationScreen.dart';
 import 'package:tressle_business/services/auth_service.dart';
 
 class SignUpScreen extends StatefulWidget {

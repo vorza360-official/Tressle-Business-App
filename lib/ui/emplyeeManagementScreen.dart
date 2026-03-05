@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/ui/ShopDetailsTabs/staff.dart';
+import 'package:tressle_business/ui/shopdetailstabs/staff.dart';
 import 'package:tressle_business/ui/addEmployeeScreen.dart';
 
 class EmployeeManagementScreen extends StatelessWidget {

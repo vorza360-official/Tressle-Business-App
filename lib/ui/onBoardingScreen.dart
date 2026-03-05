@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/loginScreen.dart';
-import 'package:tressle_business/UI/signupscreen.dart';
+import 'package:tressle_business/ui/loginScreen.dart';
+import 'package:tressle_business/ui/signupscreen.dart';
 
 class OnboardingScreen extends StatelessWidget {
   @override

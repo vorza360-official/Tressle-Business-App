@@ -7,11 +7,11 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:math' as math;
-import 'package:tressle_business/UI/emplyeeManagementScreen.dart';
-import 'package:tressle_business/UI/loginScreen.dart';
-import 'package:tressle_business/UI/notificationScreen.dart';
-import 'package:tressle_business/UI/shopDetailScreen.dart';
-import 'package:tressle_business/UI/shopReviewsScreen.dart';
+import 'package:tressle_business/ui/emplyeeManagementScreen.dart';
+import 'package:tressle_business/ui/loginScreen.dart';
+import 'package:tressle_business/ui/notificationScreen.dart';
+import 'package:tressle_business/ui/shopDetailScreen.dart';
+import 'package:tressle_business/ui/shopReviewsScreen.dart';
 import 'package:tressle_business/services/auth_service.dart';
 
 class DashboardScreen extends StatefulWidget {

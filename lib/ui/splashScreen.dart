@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/onBoardingScreen.dart';
-import 'package:tressle_business/UI/signupscreen.dart';
+import 'package:tressle_business/ui/onBoardingScreen.dart';
+import 'package:tressle_business/ui/signupscreen.dart';
 import 'package:tressle_business/services/auth_check.dart';
 
 class SplashScreen extends StatefulWidget {

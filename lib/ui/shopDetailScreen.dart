@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/HomeScreen.dart';
-import 'package:tressle_business/UI/ShopDetailsTabs/about.dart';
-import 'package:tressle_business/UI/ShopDetailsTabs/products.dart';
-import 'package:tressle_business/UI/ShopDetailsTabs/services.dart';
-import 'package:tressle_business/UI/ShopDetailsTabs/staff.dart';
+import 'package:tressle_business/ui/homeScreen.dart';
+import 'package:tressle_business/ui/shopdetailstabs/about.dart';
+import 'package:tressle_business/ui/shopdetailstabs/products.dart';
+import 'package:tressle_business/ui/shopdetailstabs/services.dart';
+import 'package:tressle_business/ui/shopdetailstabs/staff.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
 import 'package:cloud_firestore/cloud_firestore.dart';

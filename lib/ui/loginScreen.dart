@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:tressle_business/UI/HomeScreen.dart';
-import 'package:tressle_business/UI/dashboardScreen.dart';
-import 'package:tressle_business/UI/forgetPasswordUsernameScreen.dart';
-import 'package:tressle_business/UI/shopDetailScreen.dart';
-import 'package:tressle_business/UI/signupscreen.dart';
+import 'package:tressle_business/ui/homeScreen.dart';
+import 'package:tressle_business/ui/dashboardScreen.dart';
+import 'package:tressle_business/ui/forgetPasswordUsernameScreen.dart';
+import 'package:tressle_business/ui/shopDetailScreen.dart';
+import 'package:tressle_business/ui/signupscreen.dart';
 import 'package:tressle_business/services/auth_service.dart';
 
 class LoginScreen extends StatefulWidget {
