@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/employeeProfileScreen.dart';
+import 'package:tressle_business/ui/employeeProfileScreen.dart';
 
 class AttendanceListScreen extends StatefulWidget {
   const AttendanceListScreen({Key? key}) : super(key: key);

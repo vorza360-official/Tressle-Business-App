@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
 
-import 'package:tressle_business/UI/employeeProfilePortFolioScreen.dart';
 
 class EmployeeProfileScreen extends StatefulWidget {
   const EmployeeProfileScreen({Key? key}) : super(key: key);

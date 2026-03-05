@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/homeScreen.dart';
-import 'package:tressle_business/UI/onBoardingScreen.dart';
-import 'package:tressle_business/UI/shopDetailScreen.dart';
+import 'package:tressle_business/ui/homeScreen.dart';
+import 'package:tressle_business/ui/onBoardingScreen.dart';
+import 'package:tressle_business/ui/shopDetailScreen.dart';
 
 class AuthCheck extends StatelessWidget {
   @override

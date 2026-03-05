@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:tressle_business/UI/loginScreen.dart';
+import 'package:tressle_business/ui/loginScreen.dart';
 import 'package:tressle_business/services/auth_service.dart'; // Import your auth service
 
 class EmailPhoneVerifyScreen extends StatefulWidget {

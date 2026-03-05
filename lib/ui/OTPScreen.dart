@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/loginScreen.dart';
+import 'package:tressle_business/ui/loginScreen.dart';
 
 class ResetLinkSentScreen extends StatelessWidget {
   const ResetLinkSentScreen({Key? key}) : super(key: key);

@@ -1,8 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:tressle_business/UI/splashScreen.dart';
-import 'package:tressle_business/UI/test.dart';
+import 'package:tressle_business/ui/splashScreen.dart';
 import 'package:tressle_business/services/auth_service.dart';
 
 void main() async {

@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:tressle_business/UI/booking.dart';
+import 'package:tressle_business/ui/booking.dart';
 
 class HistoryScreen extends StatelessWidget {
   final FirebaseAuth _auth = FirebaseAuth.instance;
